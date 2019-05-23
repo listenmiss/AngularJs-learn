@@ -1,2 +1,1 @@
-# AngularJs-learn
-learn angularjs
+使用教程
